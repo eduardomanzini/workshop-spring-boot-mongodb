@@ -23,7 +23,7 @@ public class Instantiation implements CommandLineRunner {
 	
 	@Autowired
 	private PostRepository postRepository;
-	
+
 	@Override
 	public void run(String... args) throws Exception {
 		
